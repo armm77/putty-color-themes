@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Highway]
 "Colour0"="237,237,237"
 "Colour1"="255,248,216"
 "Colour2"="34,34,37"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="93,80,74"
 "Colour20"="237,237,237"
 "Colour21"="255,255,255"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Apple%20Terminal]
 "Colour0"="230,230,230"
 "Colour1"="255,255,255"
 "Colour2"="0,0,0"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="85,255,255"
 "Colour20"="224,224,224"
 "Colour21"="255,255,255"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

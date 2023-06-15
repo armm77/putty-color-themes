@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Pro]
 "Colour0"="242,242,242"
 "Colour1"="255,255,255"
 "Colour2"="0,0,0"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="0,229,229"
 "Colour20"="191,191,191"
 "Colour21"="229,229,229"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

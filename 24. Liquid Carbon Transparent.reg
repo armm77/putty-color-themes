@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Liquid%20Carbon%20Transparent]
 "Colour0"="175,194,194"
 "Colour1"="255,255,255"
 "Colour2"="0,0,0"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="122,196,204"
 "Colour20"="188,204,204"
 "Colour21"="188,204,204"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

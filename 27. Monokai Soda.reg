@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Monokai%20Soda]
 "Colour0"="196,197,181"
 "Colour1"="196,197,181"
 "Colour2"="26,26,26"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="88,209,235"
 "Colour20"="196,197,181"
 "Colour21"="246,246,239"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

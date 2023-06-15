@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Papirus%20Dark]
 "Colour0"="209,195,184"
 "Colour1"="209,195,184"
 "Colour2"="46,44,40"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="122,135,53"
 "Colour20"="200,185,114"
 "Colour21"="228,221,150"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

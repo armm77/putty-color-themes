@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Monokai%20Dimmed]
 "Colour0"="185,188,186"
 "Colour1"="254,255,178"
 "Colour2"="31,31,31"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="46,112,109"
 "Colour20"="185,188,186"
 "Colour21"="253,255,185"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

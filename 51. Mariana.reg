@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Mariana]
 "Colour0"="216,222,233"
 "Colour1"="147,161,161"
 "Colour2"="52,61,70"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="147,161,161"
 "Colour20"="216,222,233"
 "Colour21"="253,246,227"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000

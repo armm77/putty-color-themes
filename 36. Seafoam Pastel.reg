@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Seafoam%20Pastel]
 "Colour0"="212,231,212"
 "Colour1"="100,136,144"
 "Colour2"="36,52,53"
@@ -23,3 +23,11 @@ Windows Registry Editor Version 5.00
 "Colour19"="173,224,224"
 "Colour20"="224,224,224"
 "Colour21"="224,224,224"
+"Font"="Lucida Console"
+"BoldFont"=""
+"FontHeight"=dword:0000000e
+"FontCharSet"=dword:00000000
+"BlinkCur"=dword:00000001
+"BlinkText"=dword:00000000
+"BoldAsColour"=dword:00000001
+"FontIsBold"=dword:00000000
